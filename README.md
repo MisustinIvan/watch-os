@@ -10,3 +10,6 @@
 - simple settings
 - network scanning
 - cheating in school(you can add your own text to a widget, for educational purposes only)
+
+# Must do
+- config the wifi in the main file at the top
