@@ -15,3 +15,10 @@
 
 # Must do
 - config the wifi in the main file at the top
+
+# Images
+![pic1](./pic/photo_1_2024-05-10_15-56-22.jpg)
+![pic2](./pic/photo_2_2024-05-10_15-56-22.jpg)
+![pic3](./pic/photo_3_2024-05-10_15-56-22.jpg)
+![pic4](./pic/photo_4_2024-05-10_15-56-22.jpg)
+![pic5](./pic/photo_5_2024-05-10_15-56-22.jpg)
