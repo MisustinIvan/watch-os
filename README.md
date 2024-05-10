@@ -1,6 +1,8 @@
 # Watch OS
 - made for lilygo ttgo t-display esp32
 - compile using arduino cli / ide, might have to change some flags in the adafruit libraries
+# Controls
+- there is a long and a short press for each button and both at once
 
 # Features
 - time
