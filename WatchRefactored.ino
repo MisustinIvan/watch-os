@@ -21,7 +21,7 @@
 #define BUTTON1PIN 35
 #define BUTTON2PIN 0
 
-#define WIFI_COUNT 5
+#define WIFI_COUNT 0
 #define NUM_PAGES 8
 
 #define MEME_COUNT 4
@@ -29,11 +29,6 @@
 // -------------- BASIC STRUCTURES --------------
 
 const String wifi_information[WIFI_COUNT][2] = {
-    {"Vodafone-1B63", "yHh5wn84rxY2PRry"},
-    {"Radisek", "Radisek1721975"},
-    {"WGT-HOSTE", "gpdcgpdc"},
-    {"WGT-UCITELE", "pieRRe 0"},
-    {"CDWiFi", ""},
 };
 
 struct ButtonState {
